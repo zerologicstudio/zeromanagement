@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zero Management</string>
+    <string name="app_widget_description">Displays your pinned tasks.</string>
+</resources>
